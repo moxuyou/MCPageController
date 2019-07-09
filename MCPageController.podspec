@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'MCPageController'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of MCPageController.'
+  s.summary          = 'moxuyou MCPageController.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+非常简单、高效的无限轮播图控件，控件总共就两个文件一个控制图片滚动，一个控制页码显示，不管轮播的图片有多少张，总共会创建的ImageView只有三个
                        DESC
 
   s.homepage         = 'https://github.com/moxuyou/MCPageController'

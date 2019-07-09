@@ -1,0 +1,16 @@
+PODS:
+  - MCPageController (0.1.0)
+
+DEPENDENCIES:
+  - MCPageController (from `../`)
+
+EXTERNAL SOURCES:
+  MCPageController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MCPageController: a4ef0a959faed7b54d9e3e18fae5b08292f363e6
+
+PODFILE CHECKSUM: dc79bf4ad7ec6a825f4ed0be19c57d5c05038ad8
+
+COCOAPODS: 1.7.3

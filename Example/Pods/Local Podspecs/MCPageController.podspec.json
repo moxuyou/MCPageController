@@ -1,0 +1,22 @@
+{
+  "name": "MCPageController",
+  "version": "0.1.0",
+  "summary": "A short description of MCPageController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/moxuyou/MCPageController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "moxuyou": "11284110@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/moxuyou/MCPageController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MCPageController/Classes/**/*"
+}

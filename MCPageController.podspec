@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MCPageController/Classes/**/*'
+  s.source_files = 'Example/Pods/MCPageController/**/*'
   
   # s.resource_bundles = {
   #   'MCPageController' => ['MCPageController/Assets/*.png']
